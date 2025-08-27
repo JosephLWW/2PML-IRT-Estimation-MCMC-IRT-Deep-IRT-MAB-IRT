@@ -1,6 +1,6 @@
 # 2PML IRT Estimation: MCMC-IRT, Deep-IRT and MAB-IRT
-Author: Joseph Wan-Wang
-Research supervisor: Dr. Jeremy Miles (Google)
+- Author: Joseph Wan-Wang
+- Research supervisor: Dr. Jeremy Miles (Google)
 
 **Goal.** This repository (i) faithfully replicates the simulation experiments from **Deep‑IRT** (Tsutsumi, Kinoshita & Ueno, 2021) comparing a Bayesian 2PL (MCMC‑IRT) to a deep‑learning alternative, and (ii) contributes a conceptual extension that frames adaptive item selection as a contextual bandit via a **GLM‑UCB hybrid** (MAB‑IRT). All methods are evaluated under the same 2PL data‑generating process (DGP) and metrics for comparability.
 
